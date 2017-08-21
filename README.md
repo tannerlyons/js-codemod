@@ -1,4 +1,4 @@
-# js-codemods [![Build Status](https://travis-ci.org/tannermeans/js-codemods.svg)](https://travis-ci.org/tannermeans/js-codemods)
+# js-codemods [![Build Status](https://travis-ci.org/tannermeans/js-codemod.svg)](https://travis-ci.org/tannermeans/js-codemod)
 
 These scripts are all written for use with Facebook's jscodeshift:
 [https://github.com/facebook/jscodeshift](https://github.com/facebook/jscodeshift)
