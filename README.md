@@ -3,9 +3,6 @@
 These scripts are all written for use with Facebook's jscodeshift:
 [https://github.com/facebook/jscodeshift](https://github.com/facebook/jscodeshift)
 
-This repository contains a collection of codemod scripts for use with
-[JSCodeshift](https://github.com/facebook/jscodeshift).
-
 ### Prerequesites
 
 ```sh
