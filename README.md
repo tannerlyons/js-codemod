@@ -3,7 +3,7 @@
 These scripts are all written for use with Facebook's jscodeshift:
 [https://github.com/facebook/jscodeshift](https://github.com/facebook/jscodeshift)
 
-### Prerequesites
+### Prerequisites
 
 ```sh
 npm install -g jscodeshift
@@ -30,7 +30,7 @@ const execSync = require("child_process").execSync;
 const inputFile = process.argv[2];
 
 const pipeline = [
-  "js-codemods/transform/object-create-to-class.js",
+  "js-codemod/transform/object-create-to-class.js",
   "transform-2.js"
 ];
 
