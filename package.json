@@ -1,0 +1,30 @@
+{
+  "name": "object-create-to-class",
+  "version": "1.0.0",
+  "description": "Codemods for js code",
+  "main": " ",
+  "devDependencies": {
+    "jest": "^20.0.4",
+    "jscodeshift": "^0.3.32"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tannermeans/js-codemods.git"
+  },
+  "keywords": [
+    "object",
+    "create",
+    "class",
+    "codeshift",
+    "es6"
+  ],
+  "author": "Tanner Means",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tannermeans/js-codemods/issues"
+  },
+  "homepage": "https://github.com/tannermeans/js-codemods#readme"
+}
